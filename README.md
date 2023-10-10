@@ -19,7 +19,9 @@ I’m a full-stack developer who has just started in the exciting world of devel
 I love learning new technologies, exploring different ways to use what I already know, and design minimalist yet functional applications. 🚀 I'm also a logical person so I can work as well in backend.
 Almost everything I know about web development is from the bootcamp 'Soy Henry'.💪
 
-Learning and practicing are my mantras! 🌱💡 I enjoy the challenge of mastering new concepts and implementing them in my projects. Always open to new opportunities and collaborations. Let's code something amazing together! 💻✨. Email: daniel.agudelo185@gmail.com📥  
+Learning and practicing are my mantras! 🌱💡 I enjoy the challenge of mastering new concepts and implementing them in my projects. Always open to new opportunities and collaborations. Let's code something amazing together! 💻✨. 
+
+Email: daniel.agudelo185@gmail.com📥  
   
 
 <br/>  
