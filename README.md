@@ -20,10 +20,10 @@ Si te interesa trabajar conmigo, no dudes en contactarme.
 <a href="https://github.com/daniel-agudelo21" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/dan-agu" target="_blank">
+<a href="https://linkedin.com/in/dan-agud" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://daniel-desarrollo-web.netlify.app/" target="_blank">
+<a href="https://daniel-desarrollo-web.netlify.app/" target="_parent">
   <img src=https://img.shields.io/badge/Portafolio-%23FF3D3D?style=for-the-badge
  alt=portafolio style="margin-bottom: 5px;" />
 </a>
